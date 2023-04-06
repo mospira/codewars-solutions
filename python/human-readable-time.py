@@ -12,7 +12,6 @@
 
 # You can find some examples in the test fixtures.
 
-
 def make_readable(seconds):
     minutes = seconds//60
     seconds = seconds-(60*minutes)
